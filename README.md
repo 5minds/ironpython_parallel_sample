@@ -1,4 +1,4 @@
-# elster_ironpython_parallel_sample
+# ironpython_parallel_sample
 
 Es gibt aktuell wieder das Problem, dass der parallele Aufruf an IronPython nicht funktioniert.
 
